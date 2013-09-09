@@ -230,8 +230,7 @@ end</pre>
           existing legacy applications.
         </li>
         <li>
-          Showed the team that employees under the age of 30 where not all self entitled jerks who couldn't relate to
-          folks who have families and much more life experience under their belt.
+          Cooked some of the most popular food for the monthly company potluck.
         </li>
       </ul>
     </section>
@@ -326,12 +325,12 @@ end</pre>
     <section class="experience">
       <h3><span>Teaching</span></h3>
       <p>
-        I have a passion for teaching and bringing more people into the craft of web development.  I have taught at
-        <a href="http://workshops.railsbridge.org/">Railsbridge</a> whenever I can and have provided numerous free private
-        tutoring sessions to individuals I meet through Railsbridge and Meetups.  Where there is a desire to learn more,
-        as long as time is available, I will lend my expertise to hopefully a new generation of web developers.  In addition,
-        I am a frequent contributor to the Railsbridge curriculum and docs to help keep everything up to date and allow
-        other teaching groups out there to use the resources we have created.
+        I have a passion for teaching and bringing more people into the craft of web development.  I teach at
+        <a href="http://workshops.railsbridge.org/">Railsbridge</a> whenever I can and have provided numerous free
+        tutoring sessions to students I meet through Railsbridge/Meetups/life.  Where there is a desire and will to learn,
+        as long as availability checks out, I lend my expertise to help mentor a new generation of web developers.  Additionally,
+        I contributor to the Railsbridge curriculum and docs to help keep everything up to date and allow
+        other teachers/teaching groups out there to use the resources Railsbridge has created.
       </p>
     </section>
   </div>
