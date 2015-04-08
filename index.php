@@ -12,14 +12,14 @@
   <div class="pure-u-7-12">
     <header id="name">
       <h1>Charlie Moseley</h1>
-      <span>web *splat</span>
+      <span>web *splat / full stack generalist</span>
     </header>
 
     <section id="websplat">
 <pre>def web(*splat)
-  splat = [:developer] if splat.empty?
+  splat = :developer if splat.empty?
   splat.map do |role|
-    { "Can you be a web #{role} for us?:" => true }
+    { "Can you be a web #{role} for us?" => true }
   end
 end</pre>
     </section>
@@ -27,26 +27,23 @@ end</pre>
     <section id="introduction">
       <h2>introduction</h2>
       <p>
-        I like <em class="emphasize">awesome</em>.  Specifically making people's lives more awesome.<br />
-        <br />
-        Typically this is achieved through building awesome things or teaching people to build their own awesome
-        things.  However, I am not partial to these two methods, so if you have ideas on how I can create more
-        awesome in the world, <a href="mailto:charlie@robopengu.in">please get in touch</a>.<br />
-        <br />
-        Professionally, some call me a developer, some a system architect, for others a project manager, and even too a few: wrangler
-        of the bad bits.  As someone who has primarily been brought in to companies when their engineering teams could
-        be counted on one hand, I've developed into a jack of all trades generalist who excels in breaking down complex requirements into
-        easily digestible engineering goals.  Whatever the role required, either I will have had some experience in it before
-        or will rapidly learn whatever is necessary to complete the task at hand.<br />
-        <br />
-        Oh yeah, I'm also a pretty awesome and funny dude to be around too :3.
-        <!--
-        Enabling awesomeness is not easy and thus I partake in the mythic arts of web development. After years of harsh
-        training [on site] under harsher master and with some deep medidated introspection, I have found myself to one
-        who excels in breaking down complex and changing requirements into viable solutions no matter the fearsome
-        opponents presented. Equipped with a large expanse of tools to utilize at my disposal, I tackle opponents with
-        a attention to detail and ability to determine which tool most effectively meets the challenge at hand.
-        -->
+        I have a passion for the <em>internet</em>.<br />
+        I have a passion for making.<br />
+
+
+        <!--I like <em class="emphasize">awesome</em>.  Specifically making people's lives more awesome.<br />-->
+        <!--<br />-->
+        <!--Typically this is achieved through building awesome things or teaching people to build their own awesome-->
+        <!--things.  However, I am not partial to these two methods, so if you have ideas on how I can create more-->
+        <!--awesome in the world, <a href="mailto:charlie@robopengu.in">please get in touch</a>.<br />-->
+        <!--<br />-->
+        <!--Professionally, some call me a developer, some a system architect, for others a project manager, and even too a few: wrangler-->
+        <!--of the bad bits.  As someone who has primarily been brought in to companies when their engineering teams could-->
+        <!--be counted on one hand, I've specialize in being a jack of all trades generalist who excels in breaking down complex requirements into-->
+        <!--easily digestible engineering goals and executing on them.  Whatever the role required, either I will have had some experience in it before-->
+        <!--or will rapidly learn whatever is necessary to complete the task at hand.<br />-->
+        <!--<br />-->
+        <!--Oh yeah, I'm also a pretty awesome and funny dude to be around too :3.-->
       </p>
     </section>
   </div>
@@ -88,7 +85,7 @@ end</pre>
         <li>domain modeling</li>
         <li>cost benefit analysis</li>
         <li>decoupled and api driven design</li>
-        <li>backup ux/design work</li>
+        <li>layout/ux/design work</li>
         <li>recruiting</li>
         <li>being awesome to be around</li>
       </ul>
@@ -116,7 +113,25 @@ end</pre>
 
     <section class="experience">
       <h3>
-        <span><a href="http://microryza.com">Microryza (YC W13)</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span><a href="https://www.apiscience.com">API Sciecne</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Contractor / Sole Developer
+      </h3>
+      <p>
+        API Science is an API Science
+      </p>
+      <ul>
+        <li>
+          Worked on all aspects of application including product direction and roadmapping,
+          design and implementation, and [other stuff.]
+        </li>
+        <li>
+
+        </li>
+      </ul>
+
+    <section class="experience">
+      <h3>
+        <span><a href="http://experiment.com">Microryza / Experiment (YC W13)</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Developer #1 / Acting CTO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Dec 2012 - April 2013
       </h3>
