@@ -12,7 +12,7 @@
   <div class="pure-u-7-12">
     <header id="name">
       <h1>Charlie Moseley</h1>
-      <span>web *splat / full stack generalist</span>
+      <span>web *splat / full stack engineer</span>
     </header>
 
     <section id="websplat">
@@ -27,22 +27,12 @@ end</pre>
     <section id="introduction">
       <h2>introduction</h2>
       <p> 
-        In progress.
-        <!--     
-        I like <em class="emphasize">awesome</em>.  Specifically making people's lives more awesome.<br />
-        <br />
-        Typically this is achieved through building awesome things or teaching people to build their own awesome
-        things.  However, I am not partial to these two methods, so if you have ideas on how I can create more
-        awesome in the world, <a href="mailto:charlie@robopengu.in">please get in touch</a>.<br />
-        <br />
-        Professionally, some call me a developer, some a system architect, for others a project manager, and even too a few: wrangler
-        of the bad bits.  As someone who has primarily been brought in to companies when their engineering teams could
-        be counted on one hand, I've specialize in being a jack of all trades generalist who excels in breaking down complex requirements into
-        easily digestible engineering goals and executing on them.  Whatever the role required, either I will have had some experience in it before
-        or will rapidly learn whatever is necessary to complete the task at hand.<br />
-        <br />
-        Oh yeah, I'm also a pretty awesome and funny dude to be around too :3.
-      -->
+        When you frequent being with a companies of less than five, you do everything asked of you, and frequently much more.
+      </p>
+      <br />
+      <p>
+        I love joining early stage startups to assist them in achieving their vision. This focus has led me to "specialize" in being exceptionally versatile. Frequently put into positions where I wear many hats, I have become competent in most components of building successful web applications - both technical and not.<br />
+        <br />As an engineer, I primarily focus on web application development in the Ruby stack and excel at analyzing and breaking down complex requirements into easily digestible engineering goals to execute upon. Outside of engineering, I have also participated in a fair amount of product management, interface design, customer relations and evangelism.
       </p>
     </section>
   </div>
@@ -99,14 +89,17 @@ end</pre>
     <section class="experience">
       <h3>
         <span><a href="https://www.apiscience.com">API Science</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Lead Developer
+        Lead Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        September 2013 - Current
       </h3>
       <p>
-        [API Science description (John, help me w/ this one).]
+        <a href="https://www.apiscience.com">API Science</a> intends to modernize how production API testing is done.  Working from an early prototype in
+        September 2013, John Musser and I have bootstrapped API Science into a contender in this growing field.
+        Early successes involve signing-on customers such Getty Images, Concur / SAP, and Reverb. 
       </p>
       <ul>
-        <li>Worked with John Musser to help refine and develope the business goals to create API Science.</li>
-        <li>Designed and implemented the majority of the current API Science implementation from database design to user page design and everything between.</li>
+        <li>Worked with John Musser to help refine and develop the business goals to create API Science.</li>
+        <li>Designed and implemented the majority of the current API Science application from database schemas to user design and everything between.</li>
         <li>Designed Ruby "runners" that could understand user submitted JavaScript to allow custom validation support and basic control and logic support for our API test.</li>
       </ul>
     </section>
@@ -143,7 +136,7 @@ end</pre>
           down due to personal reasons.
         </li>
         <li>
-          Proved ability to consume inhuman amounts of caffenne without poisoning to survive YC.
+          Proved ability to consume inhuman amounts of caffeine without poisoning to survive YC.
         </li>
       </ul>
     </section>
@@ -158,10 +151,10 @@ end</pre>
         <a href="http://hark.com">Hark</a> was an audio platform startup, similar to Soundcloud, that desired to be the central repository to any and all
         audio bytes and quote content no matter the source.  With licenses to many major movie studios, the AP, and many other
         major companies, Hark had accumulated a library of many million audio bytes at it's peak.  Unfortunately, due to
-        adveristing and licensing complications, the company had to close it's doors and only a small fragment of it's past
-        library is still availabe.<br />
+        advertising and licensing complications, the company had to close it's doors and only a small fragment of it's past
+        library is still available.<br />
         <br />
-        Brought in as the third engineer in a time of rapid growth, I was primarly tasked with building a modular
+        Brought in as the third engineer in a time of rapid growth, I was primarily tasked with building a modular
         service stack to replace the monolithic Rails application that had become cryptic and unmaintainable.
         In addition, I also contributed to UX design, recruiting, seo analysis/optimization, and many other roles whenever
         required.
@@ -183,8 +176,8 @@ end</pre>
           require one primary vps (and a fail over) to handle the load.
         </li>
         <li>
-          Constructed a data analysis and aggegration service to analyze the legacy database and pull in correct content and
-          relationships to be properly modeled in the new relationships service.  Also constructed an interm state for the
+          Constructed a data analysis and aggregation service to analyze the legacy database and pull in correct content and
+          relationships to be properly modeled in the new relationships service.  Also constructed an interim state for the
           data and a dashboard for the content team to review and update the data before it was pushed into the relationship
           service.
         </li>
@@ -204,7 +197,7 @@ end</pre>
       <p>
         <a href="http://www.performanceradiator.com/">Performance Radiator</a> is one of the largest aftermarket radiator distributors in the world.  Faced with an old and
         buggy mission critical console application (connected to a Btrieve database) that was becoming more and more
-        unweildy by the day, I was brought on to provide expertise in building out a modern web based intranet software to
+        unwieldy by the day, I was brought on to provide expertise in building out a modern web based intranet software to
         replace the legacy app.  Equipped with PHP, CodeIgniter, jQuery, and a MySQL, our three man team essentially
         launched Performance Radiator's internal tools 20 years into the modern times.
       </p>
@@ -218,7 +211,7 @@ end</pre>
           code structure, and practices.
         </li>
         <li>
-          Introduced good engineering practices such as version control (git) and redudant software/hardware setups to a
+          Introduced good engineering practices such as version control (git) and redundant software/hardware setups to a
           company without much engineering experience.
         </li>
         <li>
@@ -277,8 +270,7 @@ end</pre>
         2011-ongoing
       </h3>
       <p>
-        <a href="http://emotejiji.herokuapp.com/">Emotejiji</a> is a emoticon / text face tagging and search site.  Being a purveyor of emoticons all over my text messages,
-        Facebook, and emails, I had a need to easily find and categorize the emoticons I found and used on the web.  Also needed a good excuse to try building something in angular, emotejiji was born.<br />
+        <a href="http://emotejiji.herokuapp.com/">Emotejiji</a> is a emoticon / text face tagging and search site.  Being a purveyor of using text based emoticons, I had a need to easily find and categorize emoticons I discovered.  Looking for a good excuse to dabble in Angular, emotejiji was born.<br />
       </p>
       <ul>
         <li>
@@ -291,11 +283,9 @@ end</pre>
       <h3><span>Teaching</span></h3>
       <p>
         I have a passion for teaching and bringing more people into the craft of web development.  I teach at
-        <a href="http://workshops.railsbridge.org/">Railsbridge</a> whenever I can and have provided numerous free
-        tutoring sessions to students I meet through Railsbridge/Meetups/life.  Where there is a desire and will to learn,
-        as long as availability checks out, I lend my expertise to help mentor a new generation of web developers.  Additionally,
-        I contributor to the Railsbridge curriculum and docs to help keep everything up to date and allow
-        other teachers/teaching groups out there to use the resources Railsbridge has created.
+        <a href="http://workshops.railsbridge.org/">Railsbridge</a> and <a href="https://generalassemb.ly/">General Assembly</a> whenever I can and have provided numerous free
+        tutoring sessions to students I meet through Railsbridge/Meetups/life.  Where there is a desire to learn,
+        as long as availability checks out, I lend my expertise to help mentor a new generation of web developers.
       </p>
     </section>
   </div>
