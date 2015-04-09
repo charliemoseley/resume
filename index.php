@@ -273,11 +273,11 @@ end</pre>
 
     <section class="experience">
       <h3>
-        <span><a href="http://emotejiji.com">emotejiji.com</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span><a href="http://emotejiji.herokuapp.com/">emotejiji.com</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         2011-ongoing
       </h3>
       <p>
-        <a href="http://emotejiji.com">Emotejiji</a> is a emoticon / text face tagging and search site.  Being a purveyor of emoticons all over my text messages,
+        <a href="http://emotejiji.herokuapp.com/">Emotejiji</a> is a emoticon / text face tagging and search site.  Being a purveyor of emoticons all over my text messages,
         Facebook, and emails, I had a need to easily find and categorize the emoticons I found and used on the web.  Also needed a good excuse to try building something in angular, emotejiji was born.<br />
       </p>
       <ul>
