@@ -26,24 +26,23 @@ end</pre>
 
     <section id="introduction">
       <h2>introduction</h2>
-      <p>
-        I have a passion for the <em>internet</em>.<br />
-        I have a passion for making.<br />
-
-
-        <!--I like <em class="emphasize">awesome</em>.  Specifically making people's lives more awesome.<br />-->
-        <!--<br />-->
-        <!--Typically this is achieved through building awesome things or teaching people to build their own awesome-->
-        <!--things.  However, I am not partial to these two methods, so if you have ideas on how I can create more-->
-        <!--awesome in the world, <a href="mailto:charlie@robopengu.in">please get in touch</a>.<br />-->
-        <!--<br />-->
-        <!--Professionally, some call me a developer, some a system architect, for others a project manager, and even too a few: wrangler-->
-        <!--of the bad bits.  As someone who has primarily been brought in to companies when their engineering teams could-->
-        <!--be counted on one hand, I've specialize in being a jack of all trades generalist who excels in breaking down complex requirements into-->
-        <!--easily digestible engineering goals and executing on them.  Whatever the role required, either I will have had some experience in it before-->
-        <!--or will rapidly learn whatever is necessary to complete the task at hand.<br />-->
-        <!--<br />-->
-        <!--Oh yeah, I'm also a pretty awesome and funny dude to be around too :3.-->
+      <p> 
+        In progress.
+        <!--     
+        I like <em class="emphasize">awesome</em>.  Specifically making people's lives more awesome.<br />
+        <br />
+        Typically this is achieved through building awesome things or teaching people to build their own awesome
+        things.  However, I am not partial to these two methods, so if you have ideas on how I can create more
+        awesome in the world, <a href="mailto:charlie@robopengu.in">please get in touch</a>.<br />
+        <br />
+        Professionally, some call me a developer, some a system architect, for others a project manager, and even too a few: wrangler
+        of the bad bits.  As someone who has primarily been brought in to companies when their engineering teams could
+        be counted on one hand, I've specialize in being a jack of all trades generalist who excels in breaking down complex requirements into
+        easily digestible engineering goals and executing on them.  Whatever the role required, either I will have had some experience in it before
+        or will rapidly learn whatever is necessary to complete the task at hand.<br />
+        <br />
+        Oh yeah, I'm also a pretty awesome and funny dude to be around too :3.
+      -->
       </p>
     </section>
   </div>
@@ -58,8 +57,7 @@ end</pre>
       </a><br />
       <a href="http://linkedin.com/in/charlesmoseley">
         linkedin.com/in/charlesmoseley
-      </a><br />
-      425-281-0769
+      </a>
     </section>
 
     <section class="skills">
@@ -90,19 +88,6 @@ end</pre>
         <li>being awesome to be around</li>
       </ul>
     </section>
-
-    <!--
-    <section>
-      <h2>community</h2>
-      <ul>
-        <li>frequent teacher at Railsbridge</li>
-        <li>free private tutoring whenever time is available</li>
-        <li>maintains open source codebases for examples</li>
-        <li>actively working on tutorials and curriculums</li>
-        <li>frequent attender of hacknights to provide help</li>
-      </ul>
-    </section
-    -->
   </div>
 </div>
 
@@ -113,32 +98,29 @@ end</pre>
 
     <section class="experience">
       <h3>
-        <span><a href="https://www.apiscience.com">API Sciecne</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Contractor / Sole Developer
+        <span><a href="https://www.apiscience.com">API Science</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Lead Developer
       </h3>
       <p>
-        API Science is an API Science
+        [API Science description (John, help me w/ this one).]
       </p>
       <ul>
-        <li>
-          Worked on all aspects of application including product direction and roadmapping,
-          design and implementation, and [other stuff.]
-        </li>
-        <li>
-
-        </li>
+        <li>Worked with John Musser to help refine and develope the business goals to create API Science.</li>
+        <li>Designed and implemented the majority of the current API Science implementation from database design to user page design and everything between.</li>
+        <li>Designed Ruby "runners" that could understand user submitted JavaScript to allow custom validation support and basic control and logic support for our API test.</li>
       </ul>
+    </section>
 
     <section class="experience">
       <h3>
         <span><a href="http://experiment.com">Microryza / Experiment (YC W13)</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Developer #1 / Acting CTO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Lead Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Dec 2012 - April 2013
       </h3>
       <p>
-        <a href="http://microryza.com">Microryza (YC W13)</a> is a YCombinator Winter 2013 startup focused on crowdfunding science and early stage / risky research.  When my
+        <a href="http://experiment.com">Microryza (YC W13)</a> (now known as Experiment) was a YCombinator Winter 2013 startup focused on crowdfunding science and early stage / risky research.  When my
         friends Cindy and Denny, the founders of Microryza, found out they had been accepted, they invited me to join the
-        program to shape the technical destiny of their company.  Excited about the opportunity and challenge, I packed my
+        program to provide the technical expertise to make it through YC.  Excited about the opportunity and challenge, I packed my
         entire life into a convertible and drove from Seattle to Palo Alto on Christmas day.  It was one of the most fun,
         challenging, and strenuous experiences I have ever partaken.
       </p>
@@ -169,7 +151,7 @@ end</pre>
     <section class="experience">
       <h3>
         <span><a href="http://hark.com">Hark</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Developer #3 / System Architect&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Developer / System Architect&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Jan 2012 - Dec 2012
       </h3>
       <p>
@@ -216,7 +198,7 @@ end</pre>
     <section class="experience">
       <h3>
         <span><a href="http://www.performanceradiator.com/">Performance Radiator</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Developer #2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         2009 - 2010
       </h3>
       <p>
@@ -253,7 +235,7 @@ end</pre>
     <section class="experience">
       <h3>
         <span><a href="http://fiveultimate.com">Five Ultimate</a> / <a href="http://fivebamboo.com">Five Bamboo</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Consultant / Sole Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Technology Consultant / Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         2008 - 2012
       </h3>
       <p>
@@ -296,45 +278,13 @@ end</pre>
       </h3>
       <p>
         <a href="http://emotejiji.com">Emotejiji</a> is a emoticon / text face tagging and search site.  Being a purveyor of emoticons all over my text messages,
-        Facebook, and emails, I had a need to easily find and categorize the emoticons I found and used on the web.  Itching
-        my own scratch, emotejiji was born.  Having been running for more than a year and a half now, it has become a
-        popular resource for people online looking for emoticons.<br />
+        Facebook, and emails, I had a need to easily find and categorize the emoticons I found and used on the web.  Also needed a good excuse to try building something in angular, emotejiji was born.<br />
       </p>
       <ul>
         <li>
           Fully API driven application utilize Grape API Framework and Angular.js to power the back and front ends.
         </li>
-        <li>
-          Maintain the codebase as an open source project to be used into as an example for people looking into how to integrate
-          Angular.js into Ruby/Rails/Grape.
-        </li>
-        <li>
-          Actively working on a deep dive tutorial into building API backed applications using Ruby and Angular by
-          recreating emotejiji.com.  Embedded throughout the codebase is many notes on gotchas or complications I ran into
-          while developing emotejiji.
-        </li>
-        <li>
-          Actively working on an iOS client utilizing RubyMotion.
-        </li>
       </ul>
-    </section>
-
-    <section class="experience">
-      <h3>
-        <span><a href="https://github.com/charliemoseley/eventbox_spike1">eventbox.io spike</a></span>
-      </h3>
-      <p>
-        An <a href="https://github.com/charliemoseley/eventbox_spike1">experiment</a> into the feasibility to build a generic syncing service to take event (or other data) from a source
-        and output to a desired location (ex: a calendar or API endpoint) and maintain a two way sync between those services.
-        Essentially a recreation of Google Now or Cue but API driven and not limited to the certain data sets they specify.
-        Redis Pub/Sub and Sidekiq background workers where employed to manage subscription states and keep everything in sync.<br />
-        <br />
-        Due to the overall complexity and verbosity of the GData/GCalendar gem and the neglected Meetup.com gem, the start of
-        a generic <a href="https://github.com/charliemoseley/eventbox_spike1/blob/master/lib/echidna/echidna.rb">OAuth2 API
-        consumer gem</a> and a <a href="https://github.com/charliemoseley/eventbox_spike1/tree/master/lib/gcalendar">Google
-        Calendar API gem</a> where started.  At the completion of the spike, a two way binding between Meetup
-        and Google Calendar was working for multiple users accounts.
-      </p>
     </section>
 
     <section class="experience">
