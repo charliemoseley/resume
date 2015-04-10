@@ -32,7 +32,7 @@ end</pre>
       <br />
       <p>
         I love joining early stage startups to assist them in achieving their vision. This focus has led me to "specialize" in being exceptionally versatile. Frequently put into positions where I wear many hats, I have become competent in most components of building successful web applications - both technical and not.<br />
-        <br />As an engineer, I primarily focus on web application development in the Ruby stack and excel at analyzing and breaking down complex requirements into easily digestible engineering goals to execute upon. Outside of engineering, I have also participated in a fair amount of product management, interface design, customer relations and evangelism.
+        <br />As an engineer, I primarily focus on web application development in the Ruby stack and enjoy analyzing and breaking down complex requirements into easily digestible engineering goals. Outside of engineering, I have also participated in a fair amount of product management, interface design, customer relations and evangelism.
       </p>
     </section>
   </div>
@@ -93,14 +93,15 @@ end</pre>
         September 2013 - Current
       </h3>
       <p>
-        <a href="https://www.apiscience.com">API Science</a> intends to modernize how production API testing is done.  Working from an early prototype in
-        September 2013, John Musser and I have bootstrapped API Science into a contender in this growing field.
-        Early successes involve signing-on customers such Getty Images, Concur / SAP, and Reverb. 
+        <a href="https://www.apiscience.com">API Science</a> intends to modernize how production API monitoring by building powerful tools for production API monitoring and testing. Distributed SaaS-based monitoring architecture running on AWS and coordinated across multiple regions. Rails-based core integrated with other components (ex: JS V8) for advanced features such multi-step monitoring, scriptable validations and Slack/PagerDuty support. 
       </p>
       <ul>
-        <li>Worked with John Musser to help refine and develop the business goals to create API Science.</li>
+        <li>Worked with the CEO to help refine and develop the business goals to create API Science.</li>
         <li>Designed and implemented the majority of the current API Science application from database schemas to user design and everything between.</li>
         <li>Designed Ruby "runners" that could understand user submitted JavaScript to allow custom validation support and basic control and logic support for our API test.</li>
+        <li>Completed a full Stripe integartion supporting subscriptions, mult-tiered pricing, free trial support, and webhook integration.</li>
+        <li>Created a generic alerting engine that allows us to notify users when issues occur.  With simple adapter classes, alerts from the system could easily be delivered over various mediums; email, webhook, Slack, and PagerDuty currently supported.</li>
+        <li>Designed, developed, and documented the <a href="https://developer.apiscience.com/">API Science API</a>.</li>
       </ul>
     </section>
 
