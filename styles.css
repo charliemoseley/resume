@@ -134,6 +134,10 @@ section.experience {
   margin-bottom: 40px;
 }
 
+section.pdf-disclaimer {
+  color: darkred;
+}
+
 #name span {
   /* display: block; */
   font-size: 13px;

@@ -26,13 +26,14 @@ end</pre>
 
     <section id="introduction">
       <h2>introduction</h2>
-      <p> 
+      <p>
         When you frequent being with a companies of less than five, you do everything asked of you, and frequently much more.
       </p>
       <br />
       <p>
         I love joining early stage startups to assist them in achieving their vision. This focus has led me to "specialize" in being exceptionally versatile. Frequently put into positions where I wear many hats, I have become competent in most components of building successful web applications - both technical and not.<br />
-        <br />As an engineer, I primarily focus on web application development in the Ruby stack and enjoy analyzing and breaking down complex requirements into easily digestible engineering goals. Outside of engineering, I have also participated in a fair amount of product management, interface design, customer relations and evangelism.
+        <br />
+        As an engineer, I primarily focus on web application development in the Ruby stack and enjoy analyzing and breaking down complex requirements into easily digestible engineering goals. In recent years, I've taken a keen interest in API design and development from my experiences at API Science.  After analyzing hundreds of APIs, an obsession begins to be born.  Outside of engineering, I have also participated in a fair amount of product management, team management, hiring, interface design, customer relations and evangelism.
       </p>
     </section>
   </div>
@@ -53,12 +54,17 @@ end</pre>
     <section class="skills">
       <h2>technical</h2>
       <ul>
-        <li>ruby / rails / sinatra / grape</li>
-        <li>rubinius / puma / jruby / torquebox / goliath</li>
-        <li>postgres / redis / neo4j / memcached</li>
-        <li>html5 / haml / slim / css3 / scss</li>
-        <li>javascript / coffeescript / jquery / underscore</li>
-        <li>angular.js</li>
+        <li><strong>- web application development</strong></li>
+        <li>ruby / rails / javascript / angular / ember</li>
+        <li>postgres / redis / neo4j</li>
+        <li>html5 / css3 / coffeescript / sass</li>
+        <li><strong>- infrastructor</strong></li>
+        <li>aws / heroku</li>
+        <li>mri / rubinius / jruby / eventmachine</li>
+        <li>puma / torquebox / goliath</li>
+        <li><strong>- mobile</strong></li>
+        <li>iOS / swift</li>
+        <li><strong>- legacy</strong></li=>
         <li>php / codeigniter / cakephp</li>
       </ul>
     </section>
@@ -66,7 +72,7 @@ end</pre>
     <section class="skills">
       <h2>process</h2>
       <ul>
-        <li>back and front end development</li>
+        <li>full stack development</li>
         <li>TDD</li>
         <li>pair programming / teaching</li>
         <li>end to end architecture design</li>
@@ -88,19 +94,41 @@ end</pre>
 
     <section class="experience">
       <h3>
-        <span><a href="https://www.apiscience.com">API Science</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Lead Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        September 2013 - Current
+        <span><a href="https://www.doughbies.com">Doughbies</a></span>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Lead Developer
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        July 2015 - Current
       </h3>
       <p>
-        <a href="https://www.apiscience.com">API Science</a> intends to modernize how production API monitoring by building powerful tools for production API monitoring and testing. Distributed SaaS-based monitoring architecture running on AWS and coordinated across multiple regions. Rails-based core integrated with other components (ex: JS V8) for advanced features such multi-step monitoring, scriptable validations and Slack/PagerDuty support. 
+        <a href="https://www.doughbies.com">Doughbies</a> is an on-demand food delivery service specializing in delivering cookies and treats to the Bay Area in under 20 minutes and across the US overnight.  Through the usage of great tasting products, mobile warehouse concepts, and smart logistics, Doughbies is one of the fastest growing and profitable food delivery services in the Bay Area.
+      </p>
+      <ul>
+        <li>Took a simplistic Ember+Rails application with a single client and region model and expanded it to support multiple clients (iOS and third party API integrations) and a multi-region model to support both hyper local delivers and nationwide delivery.</li>
+        <li>Assisted in the development of the iOS app in both application coding and implementation of mobile optimized API calls.</li>
+        <li>Analyzed, designed, and implemented a dispatch application with deep two way integration with Onfleet to replace a laborious, complex and error prone spreadsheet system.  This required discussions with all the stakeholders, analysis of the existing systems, and proposing various design mocks to find a an optimal system.  After implementation and iteration was complete, the new application allowed the company to increase dispatch volume by 2.5x without having to hire more staff.</li>
+        <li>Created abstract concepts such as Order Status that would analyze various internal and third party system to determine whether an order was going to become an issue and attempt to mitigate or notify a customer service rep before it became an actually customer complaint.</li>
+        <li>Built out the entirety of the admin and reporting systems, shipping integrations, and infrastructure.</li>
+        <li>Hired and managed the development team of three across three different timezones.</li>
+      </ul>
+    </section>
+
+    <section class="experience">
+      <h3>
+        <span><a href="https://www.apiscience.com">API Science</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Lead Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        September 2013 - August 2015
+      </h3>
+      <p>
+        <a href="https://www.apiscience.com">API Science</a> intended to modernize how production API monitoring by building powerful tools for production API monitoring and testing. Running a distributed SaaS-based monitoring architecture on AWS and coordinated across multiple regions, the Rails-based core integrated with other components (ex: JS V8) to implement advanced features such multi-step monitoring, scriptable validations and Slack/PagerDuty support.
       </p>
       <ul>
         <li>Worked with the CEO to help refine and develop the business goals to create API Science.</li>
         <li>Designed and implemented the majority of the current API Science application from database schemas to user design and everything between.</li>
         <li>Designed Ruby "runners" that could understand user submitted JavaScript to allow custom validation support and basic control and logic support for our API test.</li>
-        <li>Completed a full Stripe integartion supporting subscriptions, mult-tiered pricing, free trial support, and webhook integration.</li>
+        <li>Completed a full Stripe integration supporting subscriptions, mult-tiered pricing, free trial support, and webhook integration.</li>
         <li>Created a generic alerting engine that allows us to notify users when issues occur.  With simple adapter classes, alerts from the system could easily be delivered over various mediums; email, webhook, Slack, and PagerDuty currently supported.</li>
+        <li>Created optimized Ruby runners that could run 2000+ API calls in under one minute via a single AWS instance by optimizing AWS hardware, ruby implementation, and code.</li>
         <li>Designed, developed, and documented the <a href="https://developer.apiscience.com/">API Science API</a>.</li>
       </ul>
     </section>
@@ -268,7 +296,7 @@ end</pre>
     <section class="experience">
       <h3>
         <span><a href="http://emotejiji.herokuapp.com/">emotejiji.com</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        2011-ongoing
+        2011-2014 (currently in hiatus)
       </h3>
       <p>
         <a href="http://emotejiji.herokuapp.com/">Emotejiji</a> is a emoticon / text face tagging and search site.  Being a purveyor of using text based emoticons, I had a need to easily find and categorize emoticons I discovered.  Looking for a good excuse to dabble in Angular, emotejiji was born.<br />
