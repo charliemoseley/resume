@@ -27,13 +27,15 @@ end</pre>
     <section id="introduction">
       <h2>introduction</h2>
       <p>
-        When you frequent being with a companies of less than five, you do everything asked of you, and frequently much more.
+        "When you frequent being with a companies of less than five, you do everything asked of you, and frequently much more."
       </p>
       <br />
       <p>
-        I love joining early stage startups to assist them in achieving their vision. This focus has led me to "specialize" in being exceptionally versatile. Frequently put into positions where I wear many hats, I have become competent in most components of building successful web applications - both technical and not.<br />
+        Hello, my name is Charlie Moseley.  Thanks for taking the time to read my slightly unconventional resume. I hope it allows you to get some insight into my work history and assist you in whatever decision making process you may have.<br />
         <br />
-        As an engineer, I primarily focus on web application development in the Ruby stack and enjoy analyzing and breaking down complex requirements into easily digestible engineering goals. In recent years, I've taken a keen interest in API design and development from my experiences at API Science.  After analyzing hundreds of APIs, an obsession begins to be born.  Outside of engineering, I have also participated in a fair amount of product management, team management, hiring, interface design, customer relations and evangelism.
+        Historically, I have had a preference for joining very early stage startups. This focus has led me to "specialize" in being exceptionally versatile. Frequently put into positions where I wear many hats, I have become competent in most components of building successful web applications - both technical and not.<br />
+        <br />
+        As an engineer, I primarily focus on web application development in the Ruby stack and enjoy analyzing and breaking down complex requirements into easily digestible engineering goals. In recent years, I've taken a keen interest and focus in API design and development from my experiences at API Science. Outside of engineering, I have also participated in a fair amount of product management, team management, hiring, interface design, customer relations and evangelism.
       </p>
     </section>
   </div>
@@ -130,6 +132,7 @@ end</pre>
         <li>Created a generic alerting engine that allows us to notify users when issues occur.  With simple adapter classes, alerts from the system could easily be delivered over various mediums; email, webhook, Slack, and PagerDuty currently supported.</li>
         <li>Created optimized Ruby runners that could run 2000+ API calls in under one minute via a single AWS instance by optimizing AWS hardware, ruby implementation, and code.</li>
         <li>Designed, developed, and documented the <a href="https://developer.apiscience.com/">API Science API</a>.</li>
+        <li>Pretty much built everything myself.</li>
       </ul>
     </section>
 
@@ -296,7 +299,7 @@ end</pre>
     <section class="experience">
       <h3>
         <span><a href="http://emotejiji.herokuapp.com/">emotejiji.com</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        2011-2014 (currently in hiatus)
+        2011-2014 (development currently in hiatus)
       </h3>
       <p>
         <a href="http://emotejiji.herokuapp.com/">Emotejiji</a> is a emoticon / text face tagging and search site.  Being a purveyor of using text based emoticons, I had a need to easily find and categorize emoticons I discovered.  Looking for a good excuse to dabble in Angular, emotejiji was born.<br />
@@ -317,6 +320,13 @@ end</pre>
         as long as availability checks out, I lend my expertise to help mentor a new generation of web developers.
       </p>
     </section>
+
+    <!--
+    <p id="pdf-version">
+      Originally a web document resume exported as a PDF.  The web version can be viewed at:<br />
+      <a href="http://resume.robopengu.in">http://resume.robopengu.in</a>
+    </p>
+    -->
   </div>
 </div>
 

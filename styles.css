@@ -114,6 +114,7 @@ header {
 .pure-g {
   width: 880px;
   margin: 0 auto 20px auto;
+  padding: 0 20px;
 }
 
 .list {
@@ -158,4 +159,8 @@ section.pdf-disclaimer {
 #contact {
   font-size: 12px;
   margin-top: 5px;
+}
+
+#pdf-version {
+  color: darkred;
 }
