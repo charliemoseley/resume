@@ -12,30 +12,19 @@
   <div class="pure-u-7-12">
     <header id="name">
       <h1>Charlie Moseley</h1>
-      <span>full stack engineer / api design and integration specialist</span>
+      <span>full stack engineer / api specialist</span>
     </header>
-
-    <section id="websplat">
-<pre>def web(*splat)
-  splat = :developer if splat.empty?
-  splat.map do |role|
-    { "Can you be a web #{role} for us?" => true }
-  end
-end</pre>
-    </section>
 
     <section id="introduction">
       <h2>introduction</h2>
       <p>
-        "When you frequent being with a companies of less than five, you do everything asked of you, and frequently much more."
-      </p>
-      <br />
-      <p>
-        Hello, my name is Charlie Moseley.  Thanks for taking the time to read my slightly unconventional resume. I hope it allows you to get some insight into my work history and assist you in whatever decision making process you may have.<br />
+        Hello, my name is Charlie Moseley.  Thank you for taking time to read this resume and hopefully it will help any considerations you may have.<br />
         <br />
-        Historically, I have had a preference for joining very early stage startups. This focus has led me to "specialize" in being exceptionally versatile. Frequently put into positions where I wear many hats, I have become competent in most components of building successful web applications - both technical and not.<br />
+        I am a full stack web developer with a focus in the Ruby ecosystem.  My experience in early stage startups has allowed me to develop a large and versatile skillset. Put into positions where I wore many hats, I have become competent in most components of building successful web applications - both technical and not.<br />
         <br />
-        As an engineer, I primarily focus on web application development in the Ruby stack and enjoy analyzing and breaking down complex requirements into easily digestible engineering goals. In recent years, I've taken a keen interest and focus in API design and development from my experiences at API Science. Outside of engineering, I have also participated in a fair amount of product management, team management, hiring, interface design, customer relations and evangelism.
+        As an engineer, I was frequently tasked with working with the business side to analyzing and breaking down complex requirements into easily digestible engineering goals and make sure both business and engineering concerns were met.  Furthermore, I also contributed to many other non-engineering related tasks such as product development, team management, hiring, interface design, customer relations and evangelism.<br />
+        <br />
+        Since my time at API Science, I developed a passion for well designed APIs and have put a great amount of focus in studying and implementing good API patterns.
       </p>
     </section>
   </div>
@@ -63,11 +52,11 @@ end</pre>
         <li><strong>- infrastructor</strong></li>
         <li>aws / heroku</li>
         <li>mri / rubinius / jruby / eventmachine</li>
-        <li>puma / torquebox / goliath</li>
+        <li>torquebox / goliath</li>
         <li><strong>- mobile</strong></li>
         <li>iOS / swift</li>
-        <li><strong>- legacy</strong></li=>
-        <li>php / codeigniter / cakephp</li>
+        <li><strong>- api</strong></li>
+        <li>design / integration / graphhopper / google</li>
       </ul>
     </section>
 
@@ -81,7 +70,7 @@ end</pre>
         <li>domain modeling</li>
         <li>cost benefit analysis</li>
         <li>decoupled and api driven design</li>
-        <li>layout/ux/design work</li>
+        <li>layout/ux/design</li>
         <li>recruiting</li>
         <li>being awesome to be around</li>
       </ul>
@@ -98,19 +87,20 @@ end</pre>
       <h3>
         <span><a href="https://www.doughbies.com">Doughbies</a></span>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Lead Developer
+        Head of Engineering
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        July 2015 - Current
+        July 2015 - May 2018
       </h3>
       <p>
-        <a href="https://www.doughbies.com">Doughbies</a> is an on-demand food delivery service specializing in delivering cookies and treats to the Bay Area in under 20 minutes and across the US overnight.  Through the usage of great tasting products, mobile warehouse concepts, and smart logistics, Doughbies is one of the fastest growing and profitable food delivery services in the Bay Area.
+        <a href="https://www.doughbies.com">Doughbies</a> is an on-demand food delivery service specializing in delivering cookies and treats to the Bay Area in under 20 minutes and across the US overnight.  Through the usage of great tasting products, mobile warehouse concepts, and smart logistics, Doughbies was one of the fastest growing food delivery services in the Bay Area.
       </p>
       <ul>
         <li>Took a simplistic Ember+Rails application with a single client and region model and expanded it to support multiple clients (iOS and third party API integrations) and a multi-region model to support both hyper local delivers and nationwide delivery.</li>
         <li>Assisted in the development of the iOS app in both application coding and implementation of mobile optimized API calls.</li>
-        <li>Analyzed, designed, and implemented a dispatch application with deep two way integration with Onfleet to replace a laborious, complex and error prone spreadsheet system.  This required discussions with all the stakeholders, analysis of the existing systems, and proposing various design mocks to find a an optimal system.  After implementation and iteration was complete, the new application allowed the company to increase dispatch volume by 2.5x without having to hire more staff.</li>
         <li>Created abstract concepts such as Order Status that would analyze various internal and third party system to determine whether an order was going to become an issue and attempt to mitigate or notify a customer service rep before it became an actually customer complaint.</li>
         <li>Built out the entirety of the admin and reporting systems, shipping integrations, and infrastructure.</li>
+        <li>Analyzed, designed, and implemented a dispatch application with deep two way integration with Onfleet to replace a laborious, complex and error prone spreadsheet system.  This required discussions with all the stakeholders, analysis of the existing systems, and proposing various design mocks to find a an optimal system.  After implementation and iteration was complete, the new application allowed the company to increase dispatch volume by 2.5x without having to hire more staff.</li>
+        <li>Created a complex logistics system that utilized three different APIs (GraphHopper, Google Distant Matrix, and Onfleet) and our own system to progromatically determine optimal routes for our courier fleet.  At it's peak utilization, it planned routes for over 50 couriers to deliver more than 1500 orders in a six hour period with an on-time success rate of over 95%.</li>
         <li>Hired and managed the development team of three across three different timezones.</li>
       </ul>
     </section>
@@ -119,7 +109,7 @@ end</pre>
       <h3>
         <span><a href="https://www.apiscience.com">API Science</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Lead Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        September 2013 - August 2015
+        September 2013 - July 2015
       </h3>
       <p>
         <a href="https://www.apiscience.com">API Science</a> intended to modernize how production API monitoring by building powerful tools for production API monitoring and testing. Running a distributed SaaS-based monitoring architecture on AWS and coordinated across multiple regions, the Rails-based core integrated with other components (ex: JS V8) to implement advanced features such multi-step monitoring, scriptable validations and Slack/PagerDuty support.
@@ -291,34 +281,6 @@ end</pre>
           resident nerd prankster, dog walker, and many others.
         </li>
       </ul>
-    </section>
-
-    <hr />
-    <h2>personal / community work</h2>
-
-    <section class="experience">
-      <h3>
-        <span><a href="http://emotejiji.herokuapp.com/">emotejiji.com</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        2011-2014 (development currently in hiatus)
-      </h3>
-      <p>
-        <a href="http://emotejiji.herokuapp.com/">Emotejiji</a> is a emoticon / text face tagging and search site.  Being a purveyor of using text based emoticons, I had a need to easily find and categorize emoticons I discovered.  Looking for a good excuse to dabble in Angular, emotejiji was born.<br />
-      </p>
-      <ul>
-        <li>
-          Fully API driven application utilize Grape API Framework and Angular.js to power the back and front ends.
-        </li>
-      </ul>
-    </section>
-
-    <section class="experience">
-      <h3><span>Teaching</span></h3>
-      <p>
-        I have a passion for teaching and bringing more people into the craft of web development.  I teach at
-        <a href="http://workshops.railsbridge.org/">Railsbridge</a> and <a href="https://generalassemb.ly/">General Assembly</a> whenever I can and have provided numerous free
-        tutoring sessions to students I meet through Railsbridge/Meetups/life.  Where there is a desire to learn,
-        as long as availability checks out, I lend my expertise to help mentor a new generation of web developers.
-      </p>
     </section>
 
     <!--
