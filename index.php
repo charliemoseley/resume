@@ -89,7 +89,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Head of Engineering
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        July 2015 - May 2018
+        July 2015 - current
       </h3>
       <p>
         <a href="https://www.doughbies.com">Doughbies</a> is an on-demand food delivery service specializing in delivering cookies and treats to the Bay Area in under 20 minutes and across the US overnight.  Through the usage of great tasting products, mobile warehouse concepts, and smart logistics, Doughbies was one of the fastest growing food delivery services in the Bay Area.
