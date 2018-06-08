@@ -84,6 +84,7 @@ li {
   list-style: circle;
   margin-bottom: 13px;
   margin-left: 15px;
+  page-break-inside: avoid;
 }
 
 .skills {
