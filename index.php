@@ -49,6 +49,7 @@
         <li>ruby / rails / javascript / angular / ember</li>
         <li>postgres / redis / neo4j</li>
         <li>html5 / css3 / coffeescript / sass</li>
+        <li>php / zend / cakephp</li>
         <li><strong>- infrastructor</strong></li>
         <li>aws / heroku</li>
         <li>mri / rubinius / jruby / eventmachine</li>
@@ -89,10 +90,10 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Head of Engineering
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        July 2015 - current
+        July 2015 - August 2018
       </h3>
       <p>
-        <a href="https://www.doughbies.com">Doughbies</a> is an on-demand food delivery service specializing in delivering cookies and treats to the Bay Area in under 20 minutes and across the US overnight.  Through the usage of great tasting products, mobile warehouse concepts, and smart logistics, Doughbies was one of the fastest growing food delivery services in the Bay Area.
+        <a href="https://www.doughbies.com">Doughbies</a> is an on-demand food delivery service specializing in delivering cookies and treats to the Bay Area in under 20 minutes and across the US overnight.  Through the usage of great tasting products, mobile warehouse concepts, and smart logistics, Doughbies was one of the fastest growing food delivery services in the Bay Area.  Unfortunately, due to non-financial reasons, Doughbies had to close it's doors down on August 2018.
       </p>
       <ul>
         <li>Took a simplistic Ember+Rails application with a single client and region model and expanded it to support multiple clients (iOS and third party API integrations) and a multi-region model to support both hyper local delivers and nationwide delivery.</li>
@@ -209,11 +210,111 @@
         </li>
       </ul>
     </section>
-   
+
+    <section class="experience">
+      <h3>
+        <span><a href="http://www.performanceradiator.com/">Performance Radiator</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        2009 - 2010
+      </h3>
+      <p>
+        <a href="http://www.performanceradiator.com/">Performance Radiator</a> is one of the largest aftermarket radiator distributors in the world.  Faced with an old and
+        buggy mission critical console application (connected to a Btrieve database) that was becoming more and more
+        unwieldy by the day, I was brought on to provide expertise in building out a modern web based intranet software to
+        replace the legacy app.  Equipped with PHP, CodeIgniter, jQuery, and a MySQL, our three man team essentially
+        launched Performance Radiator's internal tools 20 years into the modern times.
+      </p>
+      <ul>
+        <li>
+          Worked on an intranet system to manage sales, representative, inventory, pricing, and logistic management of one
+          of the largest radiator distributors in the world.
+        </li>
+        <li>
+          Played an integral role in both the design and development of said intranet system including architecture choices,
+          code structure, and practices.
+        </li>
+        <li>
+          Introduced good engineering practices such as version control (git) and redundant software/hardware setups to a
+          company without much engineering experience.
+        </li>
+        <li>
+          Developed a multi platform system that utilized Linux, Windows Server, MySQL, MSSQL, MongoDB, Btrieve SQL, and
+          Apache harmoniously so that new systems could be developed on a modern web platform without breaking support for
+          existing legacy applications.
+        </li>
+        <li>
+          Cooked some of the most popular food for the monthly company potluck.
+        </li>
+      </ul>
+    </section>
+
+    <section class="experience">
+      <h3>
+        <span><a href="http://fiveultimate.com">Five Ultimate</a> / <a href="http://fivebamboo.com">Five Bamboo</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Consultant / Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        2008 - 2012
+      </h3>
+      <p>
+        <a href="http://fiveultimate.com">Five Ultimate</a> and <a href="http://fivebamboo.com">Five Bamboo</a> are a pair of apparel companies specializing in Ultimate Frisbee and ultra clean
+        bamboo apparel.  Having met the five siblings that run the two companies many years ago through a friend, I provided
+        them technical consulting for many years; eventually training one of their internal employees to be able to take
+        over my role when I did not have enough bandwidth to meet their growing needs.
+      </p>
+      <ul>
+        <li>
+          Developed and maintained the entire ecosystem of two well-trafficked online stores from code
+          to product logistics cycle and everything in-between.
+        </li>
+        <li>
+          Created process that combined personnel, hardware, off the shelf software, custom code, and procedures to mostly
+          automate the process of a sale and book keeping.
+        </li>
+        <li>
+          Organized and executed a multi week large scale data migration to new software packages and hosting provider
+          while keeping downtime to less then a couple hours over the entire duration.
+        </li>
+        <li>
+          Created custom reports to analyze online store data and trends across multiple data points to make evaluations
+          on how successful different on-site location marketing was.
+        </li>
+        <li>
+          As needed, worked in roles such as UX/layout, design, SEO, marketing, training, tech support, manual labor,
+          resident nerd prankster, dog walker, and many others.
+        </li>
+      </ul>
+    </section>
+
+    <section class="experience">
+      <h3>
+        <span>Designer-Web</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        2006 - 2008
+      </h3>
+      <p>
+        Designer-Web was a small web design firm that focused on building web presences for local business in the Greater Seattle
+        region.
+      </p>
+      <ul>
+        <li>
+          Worked directly with clients to gather business requirements and build out specifications for projects.
+        </li>
+        <li>
+          Created custom content management systems via modifying WordPress installations that allowed clients to maintain and update
+          their web presences with little technically knoweldge.
+        </li>
+        <li>
+          Developed guidelines and documentation on how to write CSS and HTML that would render properly across modern and legacy
+          browsers such as Internet Explorer 6.
+        </li>
+      </ul>
+    </section>
+
+    <!--
     <p id="pdf-version">
       Exported as a PDF; the web version can be viewed at:<br />
       <a href="http://resume.robopengu.in">http://resume.robopengu.in</a>
     </p>
+    -->
   </div>
 </div>
 
